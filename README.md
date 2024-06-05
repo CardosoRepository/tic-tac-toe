@@ -21,6 +21,7 @@ O Tic-Tac-Toe é um app de Jogo da Velha. Nele existe o tabuleiro, jogadores, po
 
 ## 🔖 Acesso
 
+[Tic-Tac-Toe](https://tic-tac-toe-0a.netlify.app)
 
 ## 🚀 Como executar
 
